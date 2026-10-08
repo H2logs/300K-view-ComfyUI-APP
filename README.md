@@ -4,7 +4,6 @@ My ComfyUI App is based on 2 workflows: Qwen 3.5, which generates part of the pr
 
 Recommended parameters: LLM seed +1, batch size 4, turbo mode, number of runs 4, Auto size, max height 1280.
 
-Warning: If you want to publish a picture without reviewing it first, we highly recommend disabling turbo mode to reduce the risk of inappropriate results.
 
 Settings explained:
 
@@ -17,3 +16,4 @@ Settings explained:
 • Character Swap: Asks the LLM not to mention hair, skin color, height, or necklace.
 
 • Force curvy woman: Asks the LLM to describe the character as a curvy woman.
+
